@@ -1,2 +1,2 @@
 # bmi-calculator
-A BMI calculator app made using flutter and dart.
+A simple BMI calculator app made using flutter and dart.
